@@ -1,0 +1,133 @@
+{
+    "mbti":[
+        {
+            "idx":0,
+            "category":"Analysts",
+            "title":"Architect",
+            "image": "https://i.ibb.co/7JRCXSF/INTJ.png",
+            "desc":"INTJ (Architect) is a personality type with the Introverted, Intuitive, Thinking, and Judging traits. These thoughtful tacticians love perfecting the details of life, applying creativity and rationality to everything they do. Their inner world is often a private, complex one.",
+            "celebs":"Elon Musk, Hillary Clinton, Mark Zuckerberg, Arnold Schwarzenegger, Samantha Power"
+        },
+        {
+            "idx":1,
+            "category":"Analysts",
+            "title":"Logician",
+            "image": "https://i.ibb.co/hg5XYW2/INTP.png",
+            "desc":"INTP (Logician) is a personality type with the Introverted, Intuitive, Thinking, and Prospecting traits. These flexible thinkers enjoy taking an unconventional approach to many aspects of life. They often seek out unlikely paths, mixing willingness to experiment with personal creativity.",
+            "celebs":"Albert Einstein, Bill Gates, Isaac Asimov, Tina Fey, Meryl Streep"
+        },
+        {
+            "idx":2,
+            "category":"Analysts",
+            "title":"Commander",
+            "image": "https://i.ibb.co/R2d68LZ/ENTJ.png",
+            "desc":"ENTJ (Commander) is a personality type with the Extraverted, Intuitive, Thinking, and Judging traits. They are decisive people who love momentum and accomplishment. They gather information to construct their creative visions but rarely hesitate for long before acting on them.",
+            "celebs":"Franklin D. Roosevelt, Charlize Theron, Jim Carrey, Gordon Ramsay, Katherine Hepburn"
+        },
+        {
+            "idx":3,
+            "category":"Analysts",
+            "title":"Debater",
+            "image": "https://i.ibb.co/VYSKZPd/ENTP.png",
+            "desc":"ENTP (Debater) is a personality type with the Extraverted, Intuitive, Thinking, and Prospecting traits. They tend to be bold and creative, deconstructing and rebuilding ideas with great mental agility. They pursue their goals vigorously despite any resistance they might encounter.",
+            "celebs":"Mark Twain, Sarah Silverman, Sacha Baron Cohen, Tom Hiddleston, Benedict Cumberbatch"
+        },
+        {
+            "idx":4,
+            "category":"Diplomats",
+            "title":"Advocate",
+            "image": "https://i.ibb.co/jkJxmD1/INFJ.png",
+            "desc":"INFJ (Advocate) is a personality type with the Introverted, Intuitive, Feeling, and Judging traits. They tend to approach life with deep thoughtfulness and imagination. Their inner vision, personal values, and a quiet, principled version of humanism guide them in all things.",
+            "celebs":"Oprah Winfrey, Martin Luther King Jr., Nicole Kidman, Lady Gaga, Emma Watson"
+        },
+        {
+            "idx":5,
+            "category":"Diplomats",
+            "title":"Mediator",
+            "image": "https://i.ibb.co/Gshfy3Y/INFP.png",
+            "desc":"INFP (Mediator) is a personality type with the Introverted, Intuitive, Feeling, and Prospecting traits. These rare personality types tend to be quiet, open-minded, and imaginative, and they apply a caring and creative approach to everything they do.",
+            "celebs":"J.K. Rowling, Tim Burton, Johnny Depp, Kurt Cobain, Heath Ledger"
+        },
+        {
+            "idx":6,
+            "category":"Diplomats",
+            "title":"Protagonist",
+            "image": "https://i.ibb.co/7GdNGQQ/ENFJ.png",
+            "desc":"ENFJ (Protagonist) is a personality type with the Extraverted, Intuitive, Feeling, and Judging traits. These warm, forthright types love helping others, and they tend to have strong ideas and values. They back their perspective with the creative energy to achieve their goals.",
+            "celebs":"Barack Obama, Ben Affleck, Jennifer Lawrence, Morgan Freeman, Matthew McConaughey"
+        },
+        {
+            "idx":7,
+            "category":"Diplomats",
+            "title":"Campaigner",
+            "image": "https://i.ibb.co/56DgLfx/ENFP.png",
+            "desc":"ENFP (Campaigner) is a personality type with the Extraverted, Intuitive, Feeling, and Prospecting traits. These people tend to embrace big ideas and actions that reflect their sense of hope and goodwill toward others. Their vibrant energy can flow in many directions.",
+            "celebs":"Robin Williams, Ellen DeGeneres, Tom Hanks, Drew Barrymore, Will Smith"
+        },
+        {
+            "idx":8,
+            "category":"Sentinels",
+            "title":"Logistician",
+            "image": "https://i.ibb.co/zngCJWn/ISTJ.png",
+            "desc":"ISTJ (Logistician) is a personality type with the Introverted, Observant, Thinking, and Judging traits. These people tend to be reserved yet willful, with a rational outlook on life. They compose their actions carefully and carry them out with methodical purpose.",
+            "celebs":"George Washington, Denzel Washington, Jeff Bezos, Natalie Portman, Robert De Niro"
+        },
+        {
+            "idx":9,
+            "category":"Sentinels",
+            "title":"Defender",
+            "image": "https://i.ibb.co/Dff43DM/ISFJ.png",
+            "desc":"ISFJ (Defender) is a personality type with the Introverted, Observant, Feeling, and Judging traits. These people tend to be warm and unassuming in their own steady way. They’re efficient and responsible, giving careful attention to practical details in their daily lives.",
+            "celebs":"Beyoncé, Rosa Parks, Vin Diesel, Kate Middleton, Halle Berry"
+        },
+        {
+            "idx":10,
+            "category":"Sentinels",
+            "title":"Executive",
+            "image": "https://i.ibb.co/9nkrbJ3/ESTJ.png",
+            "desc":"ESTJ (Executive) is a personality type with the Extraverted, Observant, Thinking, and Judging traits. They possess great fortitude, emphatically following their own sensible judgment. They often serve as a stabilizing force among others, able to offer solid direction amid adversity.",
+            "celebs":"Judge Judy (Judy Sheindlin), John D. Rockefeller, Dr. Phil (Phillip McGraw), Ivanka Trump, Michelle Obama"
+        },
+        {
+            "idx":11,
+            "category":"Sentinels",
+            "title":"Consul",
+            "image": "https://i.ibb.co/C5RmkRf/ESFJ.png",
+            "desc":"ESFJ (Consul) is a personality type with the Extraverted, Observant, Feeling, and Judging traits. They are attentive and people-focused, and they enjoy taking part in their social community. Their achievements are guided by decisive values, and they willingly offer guidance to others.",
+            "celebs":"Taylor Swift, Jennifer Garner, Hugh Jackman, Sally Field, Anne Hathaway"
+        },
+        {
+            "idx":12,
+            "category":"Explorers",
+            "title":"Virtuoso",
+            "image": "https://i.ibb.co/YPtSM75/ISTP.png",
+            "desc":"ISTP (Virtuoso) is a personality type with the Introverted, Observant, Thinking, and Prospecting traits. They tend to have an individualistic mindset, pursuing goals without needing much external connection. They engage in life with inquisitiveness and personal skill, varying their approach as needed.",
+            "celebs":"Clint Eastwood, Kristen Stewart, Tom Cruise, Scarlett Johansson, Harrison Ford"
+        },
+        {
+            "idx":13,
+            "category":"Explorers",
+            "title":"Adventurer",
+            "image": "https://i.ibb.co/64sx9WV/ISFP.png",
+            "desc":"ISFP (Adventurer) is a personality type with the Introverted, Observant, Feeling, and Prospecting traits. They tend to have open minds, approaching life, new experiences, and people with grounded warmth. Their ability to stay in the moment helps them uncover exciting potentials.",
+            "celebs":"Michael Jackson, Marilyn Monroe, Brad Pitt, David Bowie, Britney Spears"
+        },
+        {
+            "idx":14,
+            "category":"Explorers",
+            "title":"Entrepreneur",
+            "image": "https://i.ibb.co/Qr64zng/ESTP.png",
+            "desc":"ESTP (Entrepreneur) is a personality type with the Extraverted, Observant, Thinking, and Prospecting traits. They tend to be energetic and action-oriented, deftly navigating whatever is in front of them. They love uncovering life’s opportunities, whether socializing with others or in more personal pursuits.",
+            "celebs":"Donald Trump, Madonna, Eddie Murphy, Samuel L. Jackson, Jack Nicholson"
+        },
+        {
+            "idx":15,
+            "category":"Explorers",
+            "title":"Entertainer",
+            "image": "https://i.ibb.co/pbH3QNT/ESFP.png",
+            "desc":"ESFP (Entertainer) is a personality type with the Extraverted, Observant, Feeling, and Prospecting traits. These people love vibrant experiences, engaging in life eagerly and taking pleasure in discovering the unknown. They can be very social, often encouraging others into shared activities.",
+            "celebs":"Elvis Presley, Jamie Foxx, Adam Levine, Miley Cyrus, Kevin Hart"
+        }
+
+    ]
+}
