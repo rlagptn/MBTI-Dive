@@ -1,11 +1,17 @@
 # MBTI-Dive
 Dive into personality with MBTI Dive! Explore types, save favorites, and find your true self with linked MBTI tests.
 
+https://github.com/rlagptn/MBTI-Dive/assets/127026985/85c2b2dc-4189-4616-810f-80a43821759c
+
+
 ## Overview
 This app allows users to explore the Myers-Briggs Type Indicator (MBTI) personality types. Users can view detailed information about each MBTI type, see famous individuals with each type, and add their favorite types to a favorites list. The app also provides weather information based on the user's current location to enhance the user experience.
 
 ## Key Features
+
 ### 1. Main Page
+<img src="./images/MainPage.jpg" alt="MainPage" width="250">
+
 - Fetch MBTI data from Firebase
 - Provide location-based weather information
 - Filter MBTI types by category
@@ -13,17 +19,30 @@ This app allows users to explore the Myers-Briggs Type Indicator (MBTI) personal
 - Navigate to the Favorites page
 
 ### 2. Detail Page
+<div style="display: flex; flex-direction: row;">
+    <img src="./images/DetailPage.jpg" alt="DetailPage" width="250">
+    <img src="./images/AddToFavorites.jpg" alt="AddToFavorites" width="250">
+    <img src="./images/Share.jpg" alt="Share" width="250">
+</div>
+
 - Display detailed information about the selected MBTI type
 - Show description and famous individuals associated with the type
 - Add type to favorites
 - Share feature
 - Link to additional information website
-
+  
 ### 3. Favorites Page
+<div style="display: flex; flex-direction: row;">
+    <img src="./images/FavoritesPage.jpg" alt="FavoritesPage" width="250">
+    <img src="./images/RemoveFromFavorites.jpg" alt="RemoveFromFavorites" width="250">
+</div>
+
 - Manage favorites using the unique device ID
 - Fetch and display favorite MBTI types from Firebase
 
 ### 4. About Page
+<img src="./images/AboutPage.jpg" alt="AboutPage" width="250">
+
 - Provide an introduction and explanation of MBTI
 - Link to a website with more detailed information
 
